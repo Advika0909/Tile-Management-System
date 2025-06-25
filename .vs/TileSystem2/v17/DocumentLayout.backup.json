@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Advika\\Documents\\TileSystem2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\applicationupdateblockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\applicationupdateblockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\application_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\application_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\category_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\category_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\controllers\\application_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\controllers\\application_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\tilesystem2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\tilesystem2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\tilesystem2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\tilesystem2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|c:\\users\\advika\\documents\\tilesystem2\\tilesystem2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFE5A4E0-B4EC-493A-9473-46D705FBDABB}|TileSystem2\\TileSystem2.csproj|solutionrelative:tilesystem2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TileSystem2.http",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\TileSystem2.http",
+              "RelativeDocumentMoniker": "TileSystem2\\TileSystem2.http",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\TileSystem2.http",
+              "RelativeToolTip": "TileSystem2\\TileSystem2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-21T10:52:00.14Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\UserLoginDTO.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:02:43.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "application_master.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\application_master.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\application_master.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\application_master.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\application_master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:59:46.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "category_master.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\category_master.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\category_master.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\category_master.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\category_master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:03:35.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\productDTO.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\productDTO.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\productDTO.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\productDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:02:01.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "applicationupdateblockdto.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\applicationupdateblockdto.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\applicationupdateblockdto.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\applicationupdateblockdto.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\applicationupdateblockdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:47:02.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TileSystem2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:49:48.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application_master.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\Application_master.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Controllers\\Application_master.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\Application_master.cs",
+              "RelativeToolTip": "TileSystem2\\Controllers\\Application_master.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:33:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\Category.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Controllers\\Category.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\Category.cs",
+              "RelativeToolTip": "TileSystem2\\Controllers\\Category.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:38:31.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\appsettings.json",
+              "RelativeDocumentMoniker": "TileSystem2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\appsettings.json",
+              "RelativeToolTip": "TileSystem2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T14:27:13.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Program.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Program.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Program.cs",
+              "RelativeToolTip": "TileSystem2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:12:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\product.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\product.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:56:18.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\Product.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Controllers\\Product.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\Product.cs",
+              "RelativeToolTip": "TileSystem2\\Controllers\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:00:54.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\users.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\users.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\users.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:01:04.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "categoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\categoryDTO.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Models\\categoryDTO.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Models\\categoryDTO.cs",
+              "RelativeToolTip": "TileSystem2\\Models\\categoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:41:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TileSystem2.csproj",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\TileSystem2.csproj",
+              "RelativeDocumentMoniker": "TileSystem2\\TileSystem2.csproj",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\TileSystem2.csproj",
+              "RelativeToolTip": "TileSystem2\\TileSystem2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T13:13:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TileSystem2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:49:12.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TileSystem2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\WeatherForecast.cs",
+              "RelativeToolTip": "TileSystem2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:51:55.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TileSystem2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Advika\\Documents\\TileSystem2\\TileSystem2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TileSystem2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T10:48:56.319Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
