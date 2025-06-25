@@ -1,0 +1,55 @@
+.container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.btn.small {
+  padding: 4px 8px;
+  font-size: 12px;
+}
+
+.btn.cancel {
+  background-color: gray;
+}
+
+.form {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.form label {
+  display: block;
+  margin-top: 10px;
+}
+
+input {
+  padding: 6px;
+  margin-top: 5px;
+  width: 200px;
+}
+
+.simple-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.simple-table th, .simple-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
